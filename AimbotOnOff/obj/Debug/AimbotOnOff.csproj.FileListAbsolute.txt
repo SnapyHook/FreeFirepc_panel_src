@@ -1,0 +1,29 @@
+C:\Users\Administrator\source\repos\AimbotOnOff\AimbotOnOff\bin\Debug\AimbotOnOff.exe.config
+C:\Users\Administrator\source\repos\AimbotOnOff\AimbotOnOff\bin\Debug\AimbotOnOff.exe
+C:\Users\Administrator\source\repos\AimbotOnOff\AimbotOnOff\bin\Debug\AimbotOnOff.pdb
+C:\Users\Administrator\source\repos\AimbotOnOff\AimbotOnOff\obj\Debug\AimbotOnOff.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\AimbotOnOff\AimbotOnOff\obj\Debug\AimbotOnOff.Form1.resources
+C:\Users\Administrator\source\repos\AimbotOnOff\AimbotOnOff\obj\Debug\AimbotOnOff.Properties.Resources.resources
+C:\Users\Administrator\source\repos\AimbotOnOff\AimbotOnOff\obj\Debug\AimbotOnOff.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\AimbotOnOff\AimbotOnOff\obj\Debug\AimbotOnOff.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AimbotOnOff\AimbotOnOff\obj\Debug\AimbotOn.D5DE3D4D.Up2Date
+C:\Users\Administrator\source\repos\AimbotOnOff\AimbotOnOff\obj\Debug\AimbotOnOff.exe
+C:\Users\Administrator\source\repos\AimbotOnOff\AimbotOnOff\obj\Debug\AimbotOnOff.pdb
+C:\Users\Administrator\source\repos\AimbotOnOff\AimbotOnOff\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\source\repos\AimbotOnOff\AimbotOnOff\obj\Debug\AimbotOnOff.csproj.Fody.CopyLocal.cache
+C:\Users\Administrator\source\repos\AimbotOnOff\AimbotOnOff\obj\Debug\AimbotOnOff.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\aryan\OneDrive\Desktop\AimbotOnOff\AimbotOnOff\bin\Debug\SnapyHook panel.exe.config
+C:\Users\aryan\OneDrive\Desktop\AimbotOnOff\AimbotOnOff\bin\Debug\SnapyHook panel.exe
+C:\Users\aryan\OneDrive\Desktop\AimbotOnOff\AimbotOnOff\bin\Debug\SnapyHook panel.pdb
+C:\Users\aryan\OneDrive\Desktop\AimbotOnOff\AimbotOnOff\bin\Debug\Memory.xml
+C:\Users\aryan\OneDrive\Desktop\AimbotOnOff\AimbotOnOff\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aryan\OneDrive\Desktop\AimbotOnOff\AimbotOnOff\obj\Debug\AimbotOnOff.csproj.AssemblyReference.cache
+C:\Users\aryan\OneDrive\Desktop\AimbotOnOff\AimbotOnOff\obj\Debug\AimbotOnOff.Form1.resources
+C:\Users\aryan\OneDrive\Desktop\AimbotOnOff\AimbotOnOff\obj\Debug\AimbotOnOff.Properties.Resources.resources
+C:\Users\aryan\OneDrive\Desktop\AimbotOnOff\AimbotOnOff\obj\Debug\AimbotOnOff.csproj.GenerateResource.cache
+C:\Users\aryan\OneDrive\Desktop\AimbotOnOff\AimbotOnOff\obj\Debug\AimbotOnOff.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\AimbotOnOff\AimbotOnOff\obj\Debug\AimbotOnOff.csproj.Fody.CopyLocal.cache
+C:\Users\aryan\OneDrive\Desktop\AimbotOnOff\AimbotOnOff\obj\Debug\AimbotOnOff.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\aryan\OneDrive\Desktop\AimbotOnOff\AimbotOnOff\obj\Debug\AimbotOn.D5DE3D4D.Up2Date
+C:\Users\aryan\OneDrive\Desktop\AimbotOnOff\AimbotOnOff\obj\Debug\SnapyHook panel.exe
+C:\Users\aryan\OneDrive\Desktop\AimbotOnOff\AimbotOnOff\obj\Debug\SnapyHook panel.pdb

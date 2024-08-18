@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aryan\\OneDrive\\Desktop\\AimbotOnOff\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38355455-F27B-41D1-9A19-5FD4CA1FA1E5}|AimbotOnOff\\AimbotOnOff.csproj|c:\\users\\aryan\\onedrive\\desktop\\aimbotonoff\\aimbotonoff\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38355455-F27B-41D1-9A19-5FD4CA1FA1E5}|AimbotOnOff\\AimbotOnOff.csproj|solutionrelative:aimbotonoff\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38355455-F27B-41D1-9A19-5FD4CA1FA1E5}|AimbotOnOff\\AimbotOnOff.csproj|C:\\Users\\aryan\\OneDrive\\Desktop\\AimbotOnOff\\aimbotonoff\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38355455-F27B-41D1-9A19-5FD4CA1FA1E5}|AimbotOnOff\\AimbotOnOff.csproj|solutionrelative:aimbotonoff\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AimbotOnOff||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38355455-F27B-41D1-9A19-5FD4CA1FA1E5}|AimbotOnOff\\AimbotOnOff.csproj|C:\\Users\\aryan\\OneDrive\\Desktop\\AimbotOnOff\\aimbotonoff\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{38355455-F27B-41D1-9A19-5FD4CA1FA1E5}|AimbotOnOff\\AimbotOnOff.csproj|solutionrelative:aimbotonoff\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aryan\\AppData\\Local\\Temp\\.vsdbgsrc\\0ff124eb23e46d219f5c1132e0129e27e73dbacc20486ed220357779547eea26\\Delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\AimbotOnOff\\AimbotOnOff\\app.manifest",
+              "RelativeDocumentMoniker": "AimbotOnOff\\app.manifest",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\AimbotOnOff\\AimbotOnOff\\app.manifest",
+              "RelativeToolTip": "AimbotOnOff\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-08-14T18:56:38.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AimbotOnOff",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\AimbotOnOff\\AimbotOnOff\\AimbotOnOff.csproj",
+              "RelativeDocumentMoniker": "AimbotOnOff\\AimbotOnOff.csproj",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\AimbotOnOff\\AimbotOnOff\\AimbotOnOff.csproj",
+              "RelativeToolTip": "AimbotOnOff\\AimbotOnOff.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-14T18:43:40.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delegate.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\AppData\\Local\\Temp\\.vsdbgsrc\\0ff124eb23e46d219f5c1132e0129e27e73dbacc20486ed220357779547eea26\\Delegate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0ff124eb23e46d219f5c1132e0129e27e73dbacc20486ed220357779547eea26\\Delegate.cs",
+              "ToolTip": "C:\\Users\\aryan\\AppData\\Local\\Temp\\.vsdbgsrc\\0ff124eb23e46d219f5c1132e0129e27e73dbacc20486ed220357779547eea26\\Delegate.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0ff124eb23e46d219f5c1132e0129e27e73dbacc20486ed220357779547eea26\\Delegate.cs [Read Only]",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwJcAAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T18:42:37.21Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\AimbotOnOff\\AimbotOnOff\\Form1.cs",
+              "RelativeDocumentMoniker": "AimbotOnOff\\Form1.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\AimbotOnOff\\AimbotOnOff\\Form1.cs",
+              "RelativeToolTip": "AimbotOnOff\\Form1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T17:56:45.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\AimbotOnOff\\AimbotOnOff\\Form1.cs",
+              "RelativeDocumentMoniker": "AimbotOnOff\\Form1.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\AimbotOnOff\\AimbotOnOff\\Form1.cs [Design]",
+              "RelativeToolTip": "AimbotOnOff\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T17:40:28.066Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
