@@ -1,18 +1,3 @@
-# FreeFirepc_Panel_src
-
-📜 Overview
-Welcome to the ultimate repository for Free Fire Panel PC 2024! This post offers a comprehensive suite of powerful cheats and mods designed to enhance your gameplay experience in Free Fire. Whether you're looking for antiban panels, injectors, or undetected hacks, we've got you covered with the best cheats available.
-
-🛠️ Features
-
--aimbot
-
--RedChams
-
--AWM aim
-
--in game aimbot toggle
-
 🚀 Download and Installation (for users only)
 
 -download the AimbotOnOff.zip file.
